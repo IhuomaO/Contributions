@@ -32,3 +32,11 @@ Contributions to blockgames projects 3
 Cloned & customized github project for Zuri-Voting-App project (project 3)
 https://github.com/IhuomaO/Zuri-Voting-App/commit/96afbcf7c6e3c498a5f844b3e2077f7336f1c6a0
 https://github.com/IhuomaO/Zuri-Voting-App/commit/b8c8cec850c8ff3b756f7c949cadb459c647c175
+
+Created boilerplate functions for smart contract usin the user story
+https://github.com/IhuomaO/Zuri-Voting-App/commit/201e4a763ea45434f7ca9e3fa37019ce2128d64b
+
+Created basic scaffold for tests
+https://github.com/IhuomaO/Zuri-Voting-App/pull/8/commits/5ac1d7bdd42b209db6b278deccf133d3076a786b
+
+
